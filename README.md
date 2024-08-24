@@ -1,0 +1,1 @@
+As a beginner coder, I have created this Blackjack game in Python that you can play through the console. I aspire to work hard and become far more proficient at not only Python, but a host of all other languages in the future. 
